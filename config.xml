@@ -3,7 +3,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "kartero.driver.app"
-    version   = "1.2.0">
+    version   = "1.0.0">
     <name>BMDelivery</name>
     <description>
         BMD Driver App
@@ -19,7 +19,7 @@
 	<preference name="permissions" value="none"/>
 		
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
-    <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.5.3" />
+    <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.5.3" >
 	<param name="SENDER_ID" value="261945113164" />
 	 </gap:plugin>
 	  
