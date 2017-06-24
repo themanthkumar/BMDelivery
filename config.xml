@@ -20,7 +20,7 @@
 		
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.5.3" >
-	<param name="SENDER_ID" value="261945113164" />
+	<param name="SENDER_ID" value="703859806474" />
 	 </gap:plugin>
 	  
     <gap:plugin name="cordova-plugin-device" source="npm"/>		
